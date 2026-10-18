@@ -26,7 +26,7 @@
 
 打开Astral，界面如下
 
-![[./Pasted image 20261018141631.png]](./Pasted image 20261018141631.png)
+![[./Pasted image 20261018141631.png]](./4.png)
 
 左边选择房间，点击右下角导入房间，将以下房间邀请码复制进去（已附带服务器和连接配置）
 
@@ -35,11 +35,11 @@ astral://room?code=H4sIAAAAAAAAA32QO07EMBCG7zJ17M04jh274wI0lIjCz7DsJo42WZ7iCjRQ0
 ```
 
 
-![[./Pasted image 20261018141251.png]](./Pasted image 20261018141251.png)
+![[./Pasted image 20261018141251.png]](./5.png)
 
 然后回到主页，点击连接，再次来到房间，看到房间内就说明成功连接了
 
-![[./Pasted image 20261018141750.png]](./Pasted image 20261018141750.png)
+![[./Pasted image 20261018141750.png]](./6.png)
 
 此后的连接就只需要在主页选择房间，然后点击连接就可以了
 
