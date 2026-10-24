@@ -26,7 +26,7 @@
 
 打开Astral，界面如下
 
-![[./Pasted image 20261018141631.png]](./4.png)
+![[4]](./4.png)
 
 左边选择房间，点击右下角导入房间，将以下房间邀请码复制进去（已附带服务器和连接配置）
 
@@ -35,11 +35,11 @@ astral://room?code=H4sIAAAAAAAAA32QO07EMBCG7zJ17M04jh274wI0lIjCz7DsJo42WZ7iCjRQ0
 ```
 
 
-![[./Pasted image 20261018141251.png]](./5.png)
+![5](./5.png)
 
 然后回到主页，点击连接，再次来到房间，看到房间内就说明成功连接了
 
-![[./Pasted image 20261018141750.png]](./6.png)
+![6](./6.png)
 
 此后的连接就只需要在主页选择房间，然后点击连接就可以了
 
@@ -52,18 +52,18 @@ Windows第一次使用的用户在连接时可能会报错，提醒你下载必�
 
 打开Astral，界面如下
 
-![[./{LI]J0D~B)XJUKOF2)C(HIW.jpg|280]](./1.jpg)
+![3](./1.jpg)
 
 下边选择房间，点击右下角导入房间，将以下房间邀请码复制进去（已附带服务器和连接配置）
 ```
 astral://room?code=H4sIAAAAAAAAA32QO07EMBCG7zJ17M04jh274wI0lIjCz7DsJo42WZ7iCjRQ0yFxBDoug4BjIBRphcJm2_n-75_R3EELGo6PTj7eHr-eXr_fnz8fXiCDDWjg0Yhcckd4JRjhviyI5SwS5mUUhrtKoYcMut-oF0xaaUk0GAjnlSMWI5ISuUGJEY3jkEEDGqo8emN9JCZIS7g0gShrI1E8KoHS5EVpIYMAGjPoQZ_C4Dq9WISB1tbRJgWNmGMOGWz9DBiNiiKvKFOU5WLi7EW7PeulT229Tm1Nh9T9XzfDR3_YblraNjUVTKlS0uub20nDocTY0Z_Ty9QsV1vqUqOl-iPvRaN10U8b2Y6lnvau69e_FnXt5KI5Orozp0azCgcDI7wKy7TZ88fp_CwDBxpQqlwpJYtCIIf7H8-RcS-gAgAA
 ```
 
-![[./Y_`2YX7G8)}V~KQ{W@37{KI.jpg|282]](./2.jpg)
+![1](./2.jpg)
 
 再次回到主页，点击连接，提示会开启VPN图标，确认后即可连接，房间界面应如下
 
-![[./}Y}]9`6WB[}I6DZZ1940L]S.jpg|279]](./3.jpg)
+![2](./3.jpg)
 
 这样即为连接成功
 
